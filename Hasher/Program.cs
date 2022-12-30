@@ -20,6 +20,7 @@ namespace Hasher
 
     Based off (MSFT's) Robert McMurray Blog: https://blogs.iis.net/robert_mcmurray/simple-utility-to-calculate-file-hashes
 
+    Program created by Samuel Huron
     */
 
     using System;
